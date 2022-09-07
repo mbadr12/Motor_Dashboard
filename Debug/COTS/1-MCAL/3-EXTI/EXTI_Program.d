@@ -1,0 +1,18 @@
+COTS/1-MCAL/3-EXTI/EXTI_Program.o COTS/1-MCAL/3-EXTI/EXTI_Program.o:  \
+ ../COTS/1-MCAL/3-EXTI/EXTI_Program.c ../COTS/1-MCAL/3-EXTI/STD_TYPES.h \
+  ../COTS/1-MCAL/3-EXTI/BIT_MATH.h ../COTS/1-MCAL/3-EXTI/EXTI_config.h \
+  ../COTS/1-MCAL/3-EXTI/EXTI_interface.h \
+  ../COTS/1-MCAL/3-EXTI/EXTI_private.h \
+  ../COTS/1-MCAL/3-EXTI/EXTI_register.h
+
+../COTS/1-MCAL/3-EXTI/STD_TYPES.h:
+
+../COTS/1-MCAL/3-EXTI/BIT_MATH.h:
+
+../COTS/1-MCAL/3-EXTI/EXTI_config.h:
+
+../COTS/1-MCAL/3-EXTI/EXTI_interface.h:
+
+../COTS/1-MCAL/3-EXTI/EXTI_private.h:
+
+../COTS/1-MCAL/3-EXTI/EXTI_register.h:
